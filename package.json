@@ -1,0 +1,27 @@
+{
+  "name": "tubes-grafkom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "three": "^0.128.0",
+    "gsap": "^3.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason8792/tubes-grafkom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason8792/tubes-grafkom/issues"
+  },
+  "homepage": "https://github.com/Jason8792/tubes-grafkom#readme"
+}
