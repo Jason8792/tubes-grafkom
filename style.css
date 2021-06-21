@@ -27,11 +27,11 @@
   user-select: none;
   transition: all 500ms ease-in-out;
 
-  /* &.show{
+  &.show{
     opacity:1;
     transform : translate(-50%,-50%);
     transition: all 500ms ease-in-out;
-  }; */
+  };
 }
 
 
@@ -47,7 +47,7 @@
   position:relative;
   font-family:'Voltaire', sans-serif;
   text-transform:uppercase;
-  color:#ffa873;
+  color:#ffa873;//100707;
   font-size:12px;
   letter-spacing:2px;
   text-align:center;
@@ -58,9 +58,9 @@
 #distValue{
   position:relative;
   text-transform:uppercase;
-  color:#dc5f45;
-  font-size: 300 px;
-  font-family:'Tahoma';
+  color:#dc5f45;//dc5f45;
+  font-size:40px;
+  font-family:'Voltaire';
   text-align:center;
 }
 
