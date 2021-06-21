@@ -41,6 +41,7 @@
   top:50px;
   transform:translate(-50%,0%);
   user-select: none;
+  font-size: 60px;
 }
 
 .label{
@@ -101,6 +102,19 @@
   text-align : center;
   user-select: none;
 }
+
 .lightInstructions {
   color:#5f9042;
+}
+
+.button-restart {
+  font-family:'Voltaire', sans-serif;
+  width: 200px;
+  height: 80px;
+  background: #7B1FA2;
+  color: white;
+  font-size: 32px;
+  border: 0;
+  box-shadow: none;
+  border-radius: 5px;
 }
